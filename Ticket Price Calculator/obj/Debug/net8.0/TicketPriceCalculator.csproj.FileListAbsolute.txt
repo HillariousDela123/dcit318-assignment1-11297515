@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\dcit318-assignment1-11297515\DCIT 318 Project\Ticket Price Calculator\bin\Debug\net8.0\TicketPriceCalculator.exe
+C:\Users\HP\source\repos\dcit318-assignment1-11297515\DCIT 318 Project\Ticket Price Calculator\bin\Debug\net8.0\TicketPriceCalculator.deps.json
+C:\Users\HP\source\repos\dcit318-assignment1-11297515\DCIT 318 Project\Ticket Price Calculator\bin\Debug\net8.0\TicketPriceCalculator.runtimeconfig.json
+C:\Users\HP\source\repos\dcit318-assignment1-11297515\DCIT 318 Project\Ticket Price Calculator\bin\Debug\net8.0\TicketPriceCalculator.dll
+C:\Users\HP\source\repos\dcit318-assignment1-11297515\DCIT 318 Project\Ticket Price Calculator\bin\Debug\net8.0\TicketPriceCalculator.pdb
+C:\Users\HP\source\repos\dcit318-assignment1-11297515\DCIT 318 Project\Ticket Price Calculator\obj\Debug\net8.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\dcit318-assignment1-11297515\DCIT 318 Project\Ticket Price Calculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\dcit318-assignment1-11297515\DCIT 318 Project\Ticket Price Calculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfo.cs
+C:\Users\HP\source\repos\dcit318-assignment1-11297515\DCIT 318 Project\Ticket Price Calculator\obj\Debug\net8.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\dcit318-assignment1-11297515\DCIT 318 Project\Ticket Price Calculator\obj\Debug\net8.0\TicketPriceCalculator.dll
+C:\Users\HP\source\repos\dcit318-assignment1-11297515\DCIT 318 Project\Ticket Price Calculator\obj\Debug\net8.0\refint\TicketPriceCalculator.dll
+C:\Users\HP\source\repos\dcit318-assignment1-11297515\DCIT 318 Project\Ticket Price Calculator\obj\Debug\net8.0\TicketPriceCalculator.pdb
+C:\Users\HP\source\repos\dcit318-assignment1-11297515\DCIT 318 Project\Ticket Price Calculator\obj\Debug\net8.0\TicketPriceCalculator.genruntimeconfig.cache
+C:\Users\HP\source\repos\dcit318-assignment1-11297515\DCIT 318 Project\Ticket Price Calculator\obj\Debug\net8.0\ref\TicketPriceCalculator.dll
